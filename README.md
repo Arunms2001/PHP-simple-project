@@ -1,1 +1,1 @@
-It is a sample php program.To login as admin and can register the details of user.admin can edit delete the details.Mysql is used as the database
+It is a sample php program.To login as admin and can register the details of user.admin can edit delete the details.Mysql is used as the database.Front end is done in HTML,CSS and the back end is done using PHP.
